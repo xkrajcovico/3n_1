@@ -1,4 +1,5 @@
 ##3n+1 Calculator & graphic visualizer##
+
     how does it work:
 simple c code calculates each value that belongs to sequence, then writes it into terminal and "output.csv".
 Then system(); command from <process.h> library runs a several commands saved in "command.txt", those commands exports "graph.png" - a graph in form of picture where x is number of iterations made in the sequence adn y is value of each iteration. Graph ends in value 1 and doesnt continue in endless cycle.
