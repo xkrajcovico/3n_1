@@ -3,12 +3,13 @@
     how does it work:
 - simple c code calculates each value that belongs to sequence, then writes it into terminal and "output.csv".
 Then system(); command from <process.h> library runs a several commands saved in "command.txt", those commands exports "graph.png" - a graph in form of picture where x is number of iterations made in the sequence adn y is value of each iteration. Graph ends in value 1 and doesnt continue in endless cycle.
+- you need to install gunplot(see section gunplot)
 -------------
     content of:
  - 3n+1.c               : c code
  - command.txt          : commands for c code
  - readme.md            : instructions
- - gunplot_win64.zip    : .exe for installation of gunplot
+ - gunplot_win64.zip    : .exe for installation of gunplot - edit: wasnt able to add to reposiaty
  -------------
     expected files to be created:
  - output.csv           : table of values
