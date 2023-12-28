@@ -20,7 +20,8 @@ https://en.wikipedia.org/wiki/Collatz_conjecture
 https://www.youtube.com/watch?v=094y1Z2wpJg&themeRefresh=1
 -------------
     gunplot:
-http://www.gnuplot.info/
+- http://www.gnuplot.info/
+- https://sourceforge.net/projects/gnuplot/files/gnuplot/5.4.10/
 -------------
     Author:
 Ondrej Krajčovič
