@@ -1,4 +1,4 @@
-##3n+1 Calculator & graphic visualizer##
+3n+1 Calculator & graphic visualizer
 -------------
     how does it work:
 - simple c code calculates each value that belongs to sequence, then writes it into terminal and "output.csv".
