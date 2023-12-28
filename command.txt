@@ -1,0 +1,7 @@
+set title 'My Graph'
+set ylabel 'value'
+set xlabel 'number of iterations'
+set term png
+set output 'graph.png'
+set datafile separator ","
+plot "output.csv" with histogram
